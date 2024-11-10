@@ -63,3 +63,4 @@ fastlane/test_output
 # Ignoriere die Datei test2.swift
 test2.swift
 Info.plist
+SpotNomad/Info.plist
